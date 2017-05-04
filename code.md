@@ -1,2 +1,0 @@
-# john-site
-principal site
